@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+            "outputFile": "/Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
             "map": [
                 {
-                    "source": "/home/meizar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c3565b986be8f18defd961bcb2eaa992/res/values-vi/values-vi.xml",
+                    "source": "/Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/651d8decd07f7800f29330b6c129b489/res/values-vi/values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/meizar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/32f01ba4916dfeb6aff751303259455c/res/values-vi/values-vi.xml",
+                    "source": "/Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c2297bb80fdd6fa7643064747dbd60b6/res/values-vi/values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

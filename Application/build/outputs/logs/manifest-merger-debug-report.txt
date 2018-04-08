@@ -1,117 +1,152 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-50:12
-INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-50:12
-INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-50:12
-MERGED from [com.android.support:support-v13:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/67d9cc3f2f5b2901fb04f7bc231bfde5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/df3f792da5fb00f56a4735aa1ecf276e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/fd6384e17597c49917b97daba29a27de/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c3565b986be8f18defd961bcb2eaa992/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ba2779b44d6a40e5497e53e4d248ef49/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/44c58fc0c5157259ceda8e825dda70a6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/cbd4caba1cb1cf913887636c7c65310f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/cb2136d60ec8744daf2fd99fbe5911fb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e68fe2523dbd18429d9225f78350f706/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/2f0fb7e96b39610d4c6f59adcc424684/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/32f01ba4916dfeb6aff751303259455c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/meizar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f3c191458618a796337250a71156806c/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-50:12
-INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-50:12
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:16:1-61:12
+INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:16:1-61:12
+INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:16:1-61:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/50c8167b1d081c018c7193378f2eb59f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9b01d8ac9c7677e4134f61eb1da215dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b589007ab47bc0b45b3e059bc6661f11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/7f0efab006caeb6016d385fe76c60884/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/651d8decd07f7800f29330b6c129b489/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/977e7903477403a7a340bd130bd79d7b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c8c833f9e76312aad460fced79a143fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3b52dc01af4f0ea18ae797a6c5b2b3e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4a4ef0fec4be0e65908c0b10f2b457a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a41915df081714bea72a2a1ab5ee4ea8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2f8cd8dfb5551868e53bd630ae0e7375/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dcff0ffca15ec6cb9f0cc1835968a81d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e1408146b37da76400c1c89427428c5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/481ca3d5daa3c0d0916b7ab31c928c25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c2297bb80fdd6fa7643064747dbd60b6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/422da5a28851bcc9597e0c913202563e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d892fa8b41a7ec214a18d88732e8df5f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e771c7a28ce95bfc38942bb658dc8a6e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a9f112256d4ed75680dff349514bc5cd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:16:1-61:12
+INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:16:1-61:12
 	package
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:21:5-50
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:17:5-50
 	android:versionName
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:23:5-30
-		INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:11-69
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:16:11-69
 	android:versionCode
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:22:5-28
-		INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:18:5-28
+		INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
 uses-feature#android.hardware.bluetooth_le
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:5-89
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:30:5-32:35
 	android:required
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:64-87
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:32:9-32
 	android:name
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:19-63
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:31:9-53
 uses-permission#android.permission.BLUETOOTH
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:5-67
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:34:5-68
 	android:name
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:22-65
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:34:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:5-73
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:35:5-74
 	android:name
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:22-71
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:35:22-71
 application
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:5-48:19
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:37:5-59:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/977e7903477403a7a340bd130bd79d7b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/977e7903477403a7a340bd130bd79d7b/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:18-50
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:39:9-41
 	android:icon
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:37:9-45
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:38:9-45
 	android:theme
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:38:9-56
-activity#com.example.android.bluetoothlegatt.DeviceScanActivity
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:9-45:20
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:40:9-40
+activity#com.example.android.bluetoothlegatt.HomeActivity
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:41:9-49:20
 	android:label
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:40:13-45
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:43:13-45
 	android:name
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:19-53
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:41:13-44:29
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:42:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:44:13-48:29
 action#android.intent.action.MAIN
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:17-68
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:25-66
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:43:17-76
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:43:27-74
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:47:27-74
 activity#com.example.android.bluetoothlegatt.DeviceControlActivity
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:46:9-58
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:50:9-59
 	android:name
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:46:19-56
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:50:19-56
 service#com.example.android.bluetoothlegatt.BluetoothLeService
-ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:47:9-77
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:52:9-54:38
 	android:enabled
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:47:53-75
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:54:13-35
 	android:name
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:47:18-52
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:53:13-47
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:56:9-56
+	android:name
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:56:19-53
+activity#com.example.android.bluetoothlegatt.HomeFragment
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:57:9-50
+	android:name
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:57:19-47
+activity#com.example.android.bluetoothlegatt.ConnectDeviceFragment
+ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:58:9-68
+	android:name
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml:58:19-56
 uses-sdk
-INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-MERGED from [com.android.support:support-v13:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/67d9cc3f2f5b2901fb04f7bc231bfde5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/67d9cc3f2f5b2901fb04f7bc231bfde5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/df3f792da5fb00f56a4735aa1ecf276e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/df3f792da5fb00f56a4735aa1ecf276e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/fd6384e17597c49917b97daba29a27de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/fd6384e17597c49917b97daba29a27de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c3565b986be8f18defd961bcb2eaa992/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c3565b986be8f18defd961bcb2eaa992/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ba2779b44d6a40e5497e53e4d248ef49/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/ba2779b44d6a40e5497e53e4d248ef49/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/44c58fc0c5157259ceda8e825dda70a6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/44c58fc0c5157259ceda8e825dda70a6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/cbd4caba1cb1cf913887636c7c65310f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/cbd4caba1cb1cf913887636c7c65310f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/cb2136d60ec8744daf2fd99fbe5911fb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/cb2136d60ec8744daf2fd99fbe5911fb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e68fe2523dbd18429d9225f78350f706/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/e68fe2523dbd18429d9225f78350f706/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/2f0fb7e96b39610d4c6f59adcc424684/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/2f0fb7e96b39610d4c6f59adcc424684/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/32f01ba4916dfeb6aff751303259455c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] /home/meizar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/32f01ba4916dfeb6aff751303259455c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/meizar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f3c191458618a796337250a71156806c/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/meizar/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/f3c191458618a796337250a71156806c/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/50c8167b1d081c018c7193378f2eb59f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/50c8167b1d081c018c7193378f2eb59f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9b01d8ac9c7677e4134f61eb1da215dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9b01d8ac9c7677e4134f61eb1da215dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b589007ab47bc0b45b3e059bc6661f11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b589007ab47bc0b45b3e059bc6661f11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/7f0efab006caeb6016d385fe76c60884/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/7f0efab006caeb6016d385fe76c60884/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/651d8decd07f7800f29330b6c129b489/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/651d8decd07f7800f29330b6c129b489/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/977e7903477403a7a340bd130bd79d7b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/977e7903477403a7a340bd130bd79d7b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c8c833f9e76312aad460fced79a143fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c8c833f9e76312aad460fced79a143fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3b52dc01af4f0ea18ae797a6c5b2b3e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3b52dc01af4f0ea18ae797a6c5b2b3e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4a4ef0fec4be0e65908c0b10f2b457a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4a4ef0fec4be0e65908c0b10f2b457a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a41915df081714bea72a2a1ab5ee4ea8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a41915df081714bea72a2a1ab5ee4ea8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2f8cd8dfb5551868e53bd630ae0e7375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2f8cd8dfb5551868e53bd630ae0e7375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dcff0ffca15ec6cb9f0cc1835968a81d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dcff0ffca15ec6cb9f0cc1835968a81d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e1408146b37da76400c1c89427428c5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e1408146b37da76400c1c89427428c5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/481ca3d5daa3c0d0916b7ab31c928c25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/481ca3d5daa3c0d0916b7ab31c928c25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c2297bb80fdd6fa7643064747dbd60b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c2297bb80fdd6fa7643064747dbd60b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/422da5a28851bcc9597e0c913202563e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/422da5a28851bcc9597e0c913202563e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d892fa8b41a7ec214a18d88732e8df5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d892fa8b41a7ec214a18d88732e8df5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e771c7a28ce95bfc38942bb658dc8a6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e771c7a28ce95bfc38942bb658dc8a6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a9f112256d4ed75680dff349514bc5cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a9f112256d4ed75680dff349514bc5cd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		ADDED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/src/main/AndroidManifest.xml
