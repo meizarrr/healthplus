@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/meizar/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/Users/axellageraldinc/Documents/Projects/EseosProject/healthplus/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/meizar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c3565b986be8f18defd961bcb2eaa992/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/Users/axellageraldinc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/651d8decd07f7800f29330b6c129b489/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
